@@ -1,0 +1,12 @@
+{
+  "name": "js-for-react-native-11358466",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon arrayManipulation.js"
+  },
+  "keywords": [],
+  "author": "Henry Amponsah",
+  "license": "MIT"
+}
