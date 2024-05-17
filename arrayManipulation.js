@@ -9,7 +9,7 @@ function processArray(...arr) {
 }
 
 const processedArray = processArray(1, 2, 3, 4, 5);
-// console.log(processedArray);
+console.log(processedArray);
 
 function formatArrayStrings(arrOne, arrTwo) {
   return arrOne.map((str, index) => {
@@ -27,3 +27,5 @@ const results = formatArrayStrings(
 );
 
 console.log(results);
+
+export { formatArrayStrings, processArray };
